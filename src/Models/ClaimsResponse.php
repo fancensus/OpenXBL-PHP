@@ -4,7 +4,7 @@ namespace OpenXBL\Models;
 
 class ClaimsResponse
 {
-	public string $appKey;
+	public string $app_key;
 	public string $xuid;
 	public string $gamertag;
 	public string $email;
